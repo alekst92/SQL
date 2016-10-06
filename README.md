@@ -1,2 +1,3 @@
 # SQL
-Java käyttöliittymä MySQL-serveriin - JDBC-Driver.
+Java käyttöliittymä MySQL-serveriin  
+JDBC-Driver.
